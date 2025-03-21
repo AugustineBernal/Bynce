@@ -9,7 +9,7 @@ import Footer from "./Footer";
 import Skeleton from "./Skeleton";
 import Background from "./Background";
 import { Drawer, IconButton } from "@mui/material";
-import { KeyboardBackspace } from "@mui/icons-material"; // 移除 Close 图标
+import { KeyboardBackspace } from "@mui/icons-material"; 
 import { Body } from "./index";
 
 function App(): JSX.Element {
