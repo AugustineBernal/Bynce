@@ -2,7 +2,7 @@
 
 <img width="300px" alt="demo_pose" src="./logo.jpg" />
 
-Mikiu is a **Web-based tool** that poses MMD models from video input in real-time. Welcome feature requests and PRs!
+Bynce is a **Web-based tool** that poses MMD models from video input in real-time. Welcome feature requests and PRs!
 
 
 ## Tech Stack
