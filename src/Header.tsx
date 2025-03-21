@@ -8,7 +8,7 @@ function Header(): JSX.Element {
     <header className="header">
       <div className="header-item" style={{ justifyContent: "flex-start" }}>
         <Avatar
-          alt="Mikiu"
+          alt="Bynce"
           src="/logo.png"
           sx={{
             width: 36,
@@ -20,7 +20,7 @@ function Header(): JSX.Element {
             },
           }}
         />
-        <h2>Mikiu</h2>
+        <h2>Bynce</h2>
       </div>
 
       {}
@@ -36,7 +36,7 @@ function Header(): JSX.Element {
           </IconButton>
         </a>
         {}
-        <a href="https://x.com/mikiuai" target="_blank">
+        <a href="https://x.com" target="_blank">
           <IconButton size="small" color="inherit">
             <FontAwesomeIcon icon={faTwitter} color="white" size="sm" />
           </IconButton>
