@@ -1,4 +1,4 @@
-# Mikiu: AI Pose Picker for MikuMikuDance
+# Bynce: AI Pose Picker for MikuMikuDance
 
 <img width="300px" alt="demo_pose" src="./logo.jpg" />
 
